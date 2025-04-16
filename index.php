@@ -1,6 +1,6 @@
 <?php
 // Simple variables you can tweak later
-$title = "My First PHP CI/CD Demo";
+echo "Hello again! Time: " . date('Y-m-d H:i:s');
 date_default_timezone_set('UTC');
 ?>
 
